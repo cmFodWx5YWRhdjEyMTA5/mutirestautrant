@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity" >
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentRegister"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.RegisterFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentMyAcc"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.AccountFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentInfo"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.InfoFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentHistory"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.HistoryFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentFeedBack"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.FeedBackFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentUpdateInfor"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.UpdateInforFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmenUpdatePass"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.UpdatePassFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentLogin"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.LoginFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragmentDetailHistory"-->
+        <!--android:name="com.hcpt.multirestaurants.activity.tabs.user.DetailHistoryFragment"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent" />-->
+
+</RelativeLayout>

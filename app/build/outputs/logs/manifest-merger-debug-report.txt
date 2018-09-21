@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:2:1-141:12
+	package
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+permission#com.hcpt.multirestaurants.googlemapv2.permission.MAPS_RECEIVE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:6:9-85
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.STORAGE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\LeQuan\.android\build-cache\25bf2779473c27913147b8f1d2444918b524fdd3\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\LeQuan\.android\build-cache\dc815fdeb783b299745bede95b7d57135b2c4887\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\LeQuan\.android\build-cache\25bf2779473c27913147b8f1d2444918b524fdd3\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\LeQuan\.android\build-cache\22ed2ebea2a9ab5184848c1016b0ef80ad6d82e1\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:14:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:15:22-95
+uses-permission#mobi.android.bluedotxpress.googlemapv2.permission.MAPS_RECEIVE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:16:5-102
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:16:22-99
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:17:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:23:5-69
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:23:22-66
+uses-feature#0x00020000
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:25:5-27:35
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:26:9-41
+	android:required
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:27:9-32
+application
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:29:5-139:19
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\LeQuan\.android\build-cache\f4af5bdbfff381d132fa34f40c72e25d71ba0287\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\LeQuan\.android\build-cache\25bf2779473c27913147b8f1d2444918b524fdd3\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\LeQuan\.android\build-cache\4217c9b309b49fd474ab43dcfe7ae667df434052\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\LeQuan\.android\build-cache\dc815fdeb783b299745bede95b7d57135b2c4887\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\LeQuan\.android\build-cache\c38d5011a4aae0ae42437572aab0fa5f53015f33\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\LeQuan\.android\build-cache\18473df02c02d8b451706f9798bcf7494532a665\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\LeQuan\.android\build-cache\a3726dcca66036181de534de759c21a3c2171a24\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\LeQuan\.android\build-cache\1f2a96fc97797241ce78ea04d252d2d78892859c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\LeQuan\.android\build-cache\170d98fea7b4eb566e3ed7243a844fb03795fc62\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\LeQuan\.android\build-cache\4bfbfa606ee502aae5f26597eb9b1f369545c4a7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\LeQuan\.android\build-cache\b61dc5e80415046c0b3115eb5ef7d1307e82ec83\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\LeQuan\.android\build-cache\63041d5180a1cee781084c2633bd55e1051cb981\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\LeQuan\.android\build-cache\6afcc76d9cdeef46a21f0d573e65c3b0c2ababdf\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\LeQuan\.android\build-cache\028fcaf4f5ba86754fb655bc38609c11626f7fe9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\LeQuan\.android\build-cache\3a23a90a7dfc2cb473500f82a8a0f44c5d21c141\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\LeQuan\.android\build-cache\22ed2ebea2a9ab5184848c1016b0ef80ad6d82e1\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\LeQuan\.android\build-cache\f96344cb3feeac69fb279687d44c91a8481fda77\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\LeQuan\.android\build-cache\144d02054f81b3c8e3a58bfba94cea17a37861cd\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\LeQuan\.android\build-cache\027ec5e2f930f69794972c38e057e6e7629d93a2\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\LeQuan\.android\build-cache\aac2cdec4473c3c2490ada4b35eb039d3494b823\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\LeQuan\.android\build-cache\2dd4d6c1767a2da23de76a2460cd9c27467a3b67\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\LeQuan\.android\build-cache\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.2.0] C:\Users\LeQuan\.android\build-cache\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\output\AndroidManifest.xml:28:5-20
+MERGED from [com.mcxiaoke.volley:volley-library:1.0.19] C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\volley-library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\LeQuan\.android\build-cache\0385803e28267ec875fd75823f92858ee9375ce1\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\LeQuan\.android\build-cache\60dd80f45e5f7e41473fb7df31b5b9f1d146f3e0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\LeQuan\.android\build-cache\693b7c6ccdc3cf9aaaa4d775a5248c2ecc2f1a7f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\LeQuan\.android\build-cache\79e761e09fa1b0555391a833aa0d446e95568dd2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\LeQuan\.android\build-cache\2c89182cb4d820c1f00efd7152bd28528670ebbb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\LeQuan\.android\build-cache\17bee4d6dac55f681b3b56978cd3196a99b2fbee\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\LeQuan\.android\build-cache\238e4c5c3a6043d9c9fc618b84e5944a9541b5c0\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:32:9-43
+	android:theme
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:34:9-40
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:30:9-75
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:35:9-37:59
+	android:value
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:36:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:38:9-40:54
+	android:value
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:40:13-51
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:39:13-62
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:41:9-43:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\LeQuan\.android\build-cache\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:42:13-58
+activity#com.hcpt.multirestaurants.activity.SplashActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:45:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:46:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.hcpt.multirestaurants.activity.tabs.MainTabActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:59:13-49
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:57:13-83
+activity#com.hcpt.multirestaurants.activity.tabs.HomeActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:60:9-89
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:60:19-86
+activity#com.hcpt.multirestaurants.activity.tabs.SearchActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:61:9-91
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:61:19-88
+activity#com.hcpt.multirestaurants.activity.MyMenuActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:62:9-86
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:62:19-83
+activity#com.hcpt.multirestaurants.activity.tabs.MainCartActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:63:9-93
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:63:19-90
+activity#com.hcpt.multirestaurants.activity.tabs.MainUserActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:64:9-93
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:64:19-90
+activity#com.hcpt.multirestaurants.activity.SearchShopResultActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:65:9-96
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:65:19-93
+activity#com.hcpt.multirestaurants.activity.SearchListFoodResultActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:66:9-100
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:66:19-97
+activity#com.hcpt.multirestaurants.activity.DetailShopOrderActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:67:9-95
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:67:19-92
+activity#com.hcpt.multirestaurants.activity.DetailFoodOfShopOrderActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:68:9-101
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:68:19-98
+activity#com.hcpt.multirestaurants.activity.AddReviewActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:69:9-89
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:69:19-86
+activity#com.hcpt.multirestaurants.activity.ListCategoryActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:70:9-74:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:72:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:73:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:71:13-83
+activity#com.hcpt.multirestaurants.activity.ShopDetailActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:75:9-79:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:77:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:78:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:76:13-81
+activity#com.hcpt.multirestaurants.activity.ShopsCommentActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:80:9-84:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:82:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:83:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:81:13-83
+activity#com.hcpt.multirestaurants.activity.ListFoodActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:85:9-89:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:87:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:88:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:86:13-79
+activity#com.hcpt.multirestaurants.activity.FoodDetailActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:90:9-94:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:92:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:93:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:91:13-81
+activity#com.hcpt.multirestaurants.activity.OfferActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:95:9-99:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:97:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:98:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:96:13-76
+activity#com.hcpt.multirestaurants.activity.MapDetailActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:100:9-104:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:102:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:103:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:101:13-80
+activity#com.hcpt.multirestaurants.activity.tabs.cart.DeliveryInfoActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:106:9-110:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:108:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:109:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:107:13-68
+activity#com.hcpt.multirestaurants.activity.tabs.cart.PaymentStripeActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:112:9-116:52
+	android:screenOrientation
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:114:13-45
+	android:launchMode
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:115:13-43
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:113:13-69
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:118:9-122:75
+	android:label
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:121:13-45
+	android:configChanges
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:120:13-96
+	android:theme
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:122:13-72
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:119:13-57
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:127:13-73
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:130:9-84
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:130:19-81
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:131:9-82
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:131:19-79
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:132:9-90
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:132:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:133:9-91
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:133:19-88
+activity#io.card.payment.CardIOActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:134:9-136:66
+	android:configChanges
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:136:13-63
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:135:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:137:9-70
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:137:19-67
+activity#com.hcpt.multirestaurants.activity.FeedBackActivity
+ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:138:9-97
+	android:name
+		ADDED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml:138:19-85
+uses-sdk
+INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\LeQuan\.android\build-cache\f4af5bdbfff381d132fa34f40c72e25d71ba0287\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\LeQuan\.android\build-cache\25bf2779473c27913147b8f1d2444918b524fdd3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\LeQuan\.android\build-cache\4217c9b309b49fd474ab43dcfe7ae667df434052\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\LeQuan\.android\build-cache\dc815fdeb783b299745bede95b7d57135b2c4887\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\LeQuan\.android\build-cache\c38d5011a4aae0ae42437572aab0fa5f53015f33\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\LeQuan\.android\build-cache\18473df02c02d8b451706f9798bcf7494532a665\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\LeQuan\.android\build-cache\a3726dcca66036181de534de759c21a3c2171a24\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\LeQuan\.android\build-cache\1f2a96fc97797241ce78ea04d252d2d78892859c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\LeQuan\.android\build-cache\170d98fea7b4eb566e3ed7243a844fb03795fc62\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\LeQuan\.android\build-cache\4bfbfa606ee502aae5f26597eb9b1f369545c4a7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\LeQuan\.android\build-cache\b61dc5e80415046c0b3115eb5ef7d1307e82ec83\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\LeQuan\.android\build-cache\63041d5180a1cee781084c2633bd55e1051cb981\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\LeQuan\.android\build-cache\6afcc76d9cdeef46a21f0d573e65c3b0c2ababdf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\LeQuan\.android\build-cache\028fcaf4f5ba86754fb655bc38609c11626f7fe9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\LeQuan\.android\build-cache\3a23a90a7dfc2cb473500f82a8a0f44c5d21c141\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\LeQuan\.android\build-cache\22ed2ebea2a9ab5184848c1016b0ef80ad6d82e1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\LeQuan\.android\build-cache\f96344cb3feeac69fb279687d44c91a8481fda77\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\LeQuan\.android\build-cache\144d02054f81b3c8e3a58bfba94cea17a37861cd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\LeQuan\.android\build-cache\027ec5e2f930f69794972c38e057e6e7629d93a2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\LeQuan\.android\build-cache\aac2cdec4473c3c2490ada4b35eb039d3494b823\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\LeQuan\.android\build-cache\34d3ad780220cd637cf68d5ce52aea8531f80d5f\output\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\LeQuan\.android\build-cache\2dd4d6c1767a2da23de76a2460cd9c27467a3b67\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\LeQuan\.android\build-cache\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.2.0] C:\Users\LeQuan\.android\build-cache\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.mcxiaoke.volley:volley-library:1.0.19] C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\volley-library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:3.0.0] C:\Users\LeQuan\.android\build-cache\e4150089abe50ed99029483ad4f2edf44454a7a8\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\LeQuan\.android\build-cache\0385803e28267ec875fd75823f92858ee9375ce1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\LeQuan\.android\build-cache\60dd80f45e5f7e41473fb7df31b5b9f1d146f3e0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\LeQuan\.android\build-cache\693b7c6ccdc3cf9aaaa4d775a5248c2ecc2f1a7f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\LeQuan\.android\build-cache\79e761e09fa1b0555391a833aa0d446e95568dd2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\LeQuan\.android\build-cache\336407a819ac893a99c77d0128dd0c0b0927f8bb\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\LeQuan\.android\build-cache\0895f36c542fcf001a72d9fc4685ac232aa9ea7d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\LeQuan\.android\build-cache\2c89182cb4d820c1f00efd7152bd28528670ebbb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\LeQuan\.android\build-cache\17bee4d6dac55f681b3b56978cd3196a99b2fbee\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\LeQuan\.android\build-cache\238e4c5c3a6043d9c9fc618b84e5944a9541b5c0\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\LeQuan\.android\build-cache\1f2a96fc97797241ce78ea04d252d2d78892859c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\LeQuan\.android\build-cache\d6b364c871b01b923219e62086cbcfd7909b3e2a\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:26:13-69
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\LeQuan\.android\build-cache\da74093d98af3309db8ef89d1ea85b37a8be8f80\output\AndroidManifest.xml:32:25-96
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\LeQuan\.android\build-cache\0385803e28267ec875fd75823f92858ee9375ce1\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\LeQuan\.android\build-cache\60dd80f45e5f7e41473fb7df31b5b9f1d146f3e0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\LeQuan\.android\build-cache\693b7c6ccdc3cf9aaaa4d775a5248c2ecc2f1a7f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\LeQuan\.android\build-cache\79e761e09fa1b0555391a833aa0d446e95568dd2\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\LeQuan\.android\build-cache\2c89182cb4d820c1f00efd7152bd28528670ebbb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\LeQuan\.android\build-cache\17bee4d6dac55f681b3b56978cd3196a99b2fbee\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\LeQuan\.android\build-cache\0385803e28267ec875fd75823f92858ee9375ce1\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\LeQuan\.android\build-cache\0385803e28267ec875fd75823f92858ee9375ce1\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\LeQuan\.android\build-cache\238e4c5c3a6043d9c9fc618b84e5944a9541b5c0\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\LeQuan\.android\build-cache\238e4c5c3a6043d9c9fc618b84e5944a9541b5c0\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\LeQuan\.android\build-cache\238e4c5c3a6043d9c9fc618b84e5944a9541b5c0\output\AndroidManifest.xml:26:13-58

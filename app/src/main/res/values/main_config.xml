@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple Restaurant</string>
+
+    <!--webservice config-->
+    <string name="server_backend_link">http://27.72.88.241:8888/hicom-multirestaurants-luis/backend/api/</string>
+    <!--<string name="server_backend_link">http://192.168.10.100:8888/hicom-multirestaurants-luis/backend/api/</string>-->
+
+    <!--admob & other key-->
+    <!--AIzaSyBsHQhyKx-XaKR0mSMJBp_uV3uHtjm76bk--><!--test-->
+    <!--AIzaSyCpolIW8VLYB5xKQ_ft0bNM_VPgfDFUhvo--><!--release-->
+
+    <!-- google key config-->
+    <string name="key_google_admob_interstitial"></string>
+    <string name="key_google_admob_banner"></string>
+    <!--<string name="key_google_map">AIzaSyCkuetmdkgB00jE17j3pu3uJCcC6a_-M2o</string>-->
+    <!--<string name="key_google_map">AIzaSyDOKKc4hvLRHMuF5WOYWL3muRdOXtyqUT4</string>-->
+    <string name="key_google_map">AIzaSyDCyuqnBfLgLqKyYOEBPMpylmmWenDIobs</string> <!-- create by hicom.developer@gmail.com-->
+    <string name="key_google_gcm_id"></string>
+
+    <!-- facebook config-->
+    <string name="key_facebook_app_id">1205167992856694</string>  <!-- facebook hicom.register@gmail.com-->
+    <string name="stripe_publishable_key">pk_test_uc0JO1XnfXBVsyL7Ug9s0XWn</string>
+
+</resources>

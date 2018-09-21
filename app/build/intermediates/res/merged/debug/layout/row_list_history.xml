@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dimen_1x"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_1x"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.7"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lblSTT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="#12332"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_normal_1x" />
+
+            <TextView
+                android:id="@+id/lblOrderTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textSize="@dimen/text_size_small_3x"
+                android:layout_marginTop="@dimen/text_size_small"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:gravity="right|center_vertical">
+
+            <LinearLayout
+                android:layout_marginRight="@dimen/text_size_small"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="right|center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/lblTotalH"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="$5657"
+                    android:layout_marginTop="@dimen/dimen_05x"
+                    android:textSize="@dimen/text_size_normal"
+                    android:textColor="@color/red" />
+
+                <TextView
+                    android:id="@+id/lblStatusOrder"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/cl_GreenText"
+                    android:textAllCaps="true"
+                    android:textSize="@dimen/text_size_small_3x"
+                    android:layout_marginTop="@dimen/text_size_small"
+                    android:text="TextView" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/imgContinue"
+                android:layout_width="@dimen/dimen_2x"
+                android:layout_height="@dimen/dimen_2x"
+                android:src="@drawable/ic_continue" />
+        </LinearLayout>
+        </LinearLayout>
+
+
+</LinearLayout>

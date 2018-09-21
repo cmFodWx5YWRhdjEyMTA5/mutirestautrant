@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg_boder_item2"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/dimen8"
+    android:layout_margin="@dimen/dimen16">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/imgFood"
+        android:src="@drawable/ic_user"
+        android:layout_width="@dimen/dimen120"
+        android:layout_height="@dimen/dimen120" />
+
+    <LinearLayout
+        android:padding="@dimen/dimen8"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen120">
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="@dimen/dimen18sp"
+            android:id="@+id/tvName"
+            android:text="PIZZA HELLO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="@color/black"
+            android:layout_marginTop="@dimen/dimen4"
+            android:textSize="@dimen/dimen14sp"
+            android:text="pizza"
+            android:id="@+id/tvCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tvPrice"
+            android:layout_marginTop="@dimen/dimen4"
+            android:textSize="@dimen/dimen14sp"
+            android:textColor="@color/red"
+            android:text="$ 4.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_alignParentBottom="true"
+                android:id="@+id/btnAdd"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/bg_buber"
+                android:textColor="#fff"
+                android:gravity="center"
+                android:text="Add"
+                android:layout_width="@dimen/dimen100"
+                android:layout_height="@dimen/dimen30" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

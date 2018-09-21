@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="@color/red"
+        android:gravity="center"
+        android:text="Select Category"
+        android:textColor="@color/cl_white"
+        android:textSize="@dimen/text_size_normal" />
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/rclDialogCategory"
+        android:layout_height="@dimen/dimen300">
+
+    </android.support.v7.widget.RecyclerView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/red" />
+    <TextView
+        android:textSize="@dimen/dimen16sp"
+        android:id="@+id/btnClose"
+        android:background="@drawable/bg_button"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:text="Close"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="8dp"
+        android:layout_width="@dimen/dimen150"
+        android:layout_height="50dp" />
+
+</LinearLayout>

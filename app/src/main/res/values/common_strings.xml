@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="near_by">Near By</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_loading_data">Loading&#8230;</string>
+    <string name="message_network_is_unavailable">Network is Unavailable!</string>
+    <string name="message_server_error">Server error, Please try again later.</string>
+    <string name="message_error_cant_extract_server_response">Error. No response from server.</string>
+    <string name="tel">tel:</string>
+    <string name="message_please_wait">Please Wait&#8230;</string>
+    <string name="loading">Loading</string>
+    <string name="Setting">Settings</string>
+    <string name="finding_service">Finding local services</string>
+   
+
+</resources>

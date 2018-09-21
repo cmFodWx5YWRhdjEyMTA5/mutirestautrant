@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dimen45"
+    android:orientation="horizontal"
+    android:weightSum="5">
+
+    <LinearLayout
+        android:id="@+id/llRelish"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|center_vertical"
+        android:layout_weight="2"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbRelish"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tvRelish"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:singleLine="true"
+            android:text="Sugar"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/spnType"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2" />
+
+    <TextView
+        android:id="@+id/tvTotal"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical|right"
+        android:text=""
+        android:textSize="14sp" />
+
+</LinearLayout>

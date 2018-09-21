@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.8_64cdd5a983d3d48820af9d9d830fe69e804d4129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\libs\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-2.4.0_bbeda33b84cdbb76f5b567020906b22955675751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\170d98fea7b4eb566e3ed7243a844fb03795fc62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b87e00451abcbb821a487f91af5e96cdfb5c6056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_51732c77e89b37be3acd4bc6d64c929867d07aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\0895f36c542fcf001a72d9fc4685ac232aa9ea7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03d1ca5133dd6e36f423bbd4d9847cf0081057ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\volley-library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6339efa9976b50e5dde265d3bcd95f971d278d3">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_f24123d4dd4156994bfa13ba490540cf55318967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\4bfbfa606ee502aae5f26597eb9b1f369545c4a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1d20d33b06ea0aab07c35c8716a90e4aac80652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\e4150089abe50ed99029483ad4f2edf44454a7a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f912a454739031f70529676fa62443c3cb5ae5a">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86e685385bd854d693849e88881f9803af757706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\1f2a96fc97797241ce78ea04d252d2d78892859c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f019245c863db5e0457efa30e0d26c0fa01d26ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\336407a819ac893a99c77d0128dd0c0b0927f8bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d02f4b0de8a9b5e2ffb0e22fdd4739b70a804348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\libs\PayPalAndroidSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439a561dafd4296a4075314d508f814b8d938dfe">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\PayPalAndroidSDK_6983e9cd6ab6597de527dda2696469f0a2072e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="C:\Users\LeQuan\Desktop\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.1_90f449a201f7c888dee7875c9b607aad5680688d\classes.dex" />
+    </item>
+
+</items>

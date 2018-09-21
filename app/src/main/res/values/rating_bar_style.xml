@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="CustomRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/rating_bar_style</item>
+        <item name="android:minHeight">@dimen/min_height_rating_bar</item>
+        <item name="android:maxHeight">@dimen/max_height_rating_bar</item>
+    </style>
+    
+    <style name="CustomRatingBar_large_padding" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/rating_bar_style</item>
+        <item name="android:minHeight">@dimen/min_height_rating_bar</item>
+        <item name="android:maxHeight">@dimen/max_height_rating_bar</item>
+    </style>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/toast_border" >
+
+    <TextView
+        android:id="@+id/lblMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/dimen_1x"
+        android:paddingLeft="@dimen/dimen_1x"
+        android:text="The image has been uploaded to server."
+        android:textColor="#ffffff"
+        android:textSize="@dimen/text_size_normal_1x"
+        android:textStyle="bold" />
+
+</LinearLayout>

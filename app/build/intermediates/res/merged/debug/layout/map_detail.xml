@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="@dimen/image_width_map_detail"
+        android:layout_height="wrap_content"
+        android:background="@drawable/balloon_overlay_bg_selector"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/img_map"
+            android:layout_width="@dimen/width_image_map"
+            android:layout_height="@dimen/height_image_map"
+            android:layout_margin="@dimen/dimen_05x" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/dimen_1x" >
+
+            <TextView
+                android:id="@+id/lblShopName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:text="Lee lee"
+                android:textColor="@color/blue_search"
+                android:textSize="@dimen/text_size_normal_1x"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lblPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_05x"
+                android:text="Lee lee"
+                android:textColor="@color/orange"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:id="@+id/lblDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:maxLines="2"
+                android:textColor="@color/gray_search"
+                android:textSize="@dimen/text_size_normal" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

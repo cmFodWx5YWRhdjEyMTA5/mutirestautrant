@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutRowShopCart"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_1x"
+        android:background="@drawable/bg_custom_spinner"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="@dimen/row_shop_height"
+            android:layout_height="@dimen/row_shop_height"
+            android:layout_margin="@dimen/dimen_1x">
+
+            <ProgressBar
+                android:id="@+id/progess"
+                style="@android:style/Widget.ProgressBar.Small.Inverse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+
+            <ImageView
+                android:id="@+id/imgFood"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row_shop_height"
+            android:layout_marginTop="@dimen/dimen_1x">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/lblFoodName"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text="mon an 1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_normal_3x" />
+
+                <ImageView
+                    android:id="@+id/btnDelete"
+                    android:layout_width="@dimen/dimen_3x"
+                    android:layout_height="@dimen/dimen_3x"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/dimen_05x"
+                    android:background="@drawable/ic_delete" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/btnSubtractNumber"
+                        android:layout_width="@dimen/dimen_x3x"
+                        android:layout_height="@dimen/dimen_x3x"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/ic_minus_quantity" />
+
+                    <ImageView
+                        android:id="@+id/btnAddNumber"
+                        android:layout_width="@dimen/dimen_x3x"
+                        android:layout_height="@dimen/dimen_x3x"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/dimen_1x"
+                        android:background="@drawable/ic_add_quantity" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_05x"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/lblPrice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="$50"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_size_normal_1x" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/forward_slash_item"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_size_small_3x" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/lblNumberFood"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="2 items"
+                    android:textColor="@color/blue_search"
+                    android:textSize="@dimen/text_size_normal_1x" />
+
+                <TextView
+                    android:id="@+id/lblTotalPrice"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_05x"
+                    android:layout_weight="1"
+                    android:gravity="right|center_vertical"
+                    android:text="$200"
+                    android:textColor="@color/red"
+                    android:textSize="@dimen/text_size_normal_1x" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

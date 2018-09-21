@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rlHeadler"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen40"
+        android:layout_alignParentTop="true"
+        android:background="@color/red"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tvHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Change quantity"
+            android:textColor="@color/whitehuy"
+            android:textSize="@dimen/dimen14sp"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen8"
+        android:gravity="center"
+        android:text="You should enter a quantity between 1 and 500"
+        android:textSize="@dimen/dimen12sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/edtchangequantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="@dimen/dimen16"
+        android:background="@color/whitehuy"
+        android:hint="input quantity"
+        android:inputType="number"
+        android:padding="10dp"
+        android:textSize="13sp" />
+
+    <RelativeLayout
+        android:id="@+id/rlFooter"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen40"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/dimen8"
+        android:layout_marginTop="@dimen/dimen16"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/dimen8"
+        android:paddingRight="@dimen/dimen8">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/btnSave"
+                android:layout_width="@dimen/dimen100"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_button"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/dimen8"
+                android:text="Save"
+                android:textColor="@color/whitehuy"
+                android:textSize="@dimen/dimen14sp" />
+
+            <TextView
+                android:id="@+id/btnCancel"
+                android:layout_width="@dimen/dimen100"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen8"
+                android:background="@drawable/bg_button"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/dimen8"
+                android:text="Cancel"
+                android:textColor="@color/whitehuy"
+                android:textSize="@dimen/dimen14sp" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

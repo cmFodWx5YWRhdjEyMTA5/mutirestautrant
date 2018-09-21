@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="currency">$</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="searchShop">Search Shop</string>
+    <string name="searchMenu">Search Menu</string>
+    <string name="myMenu">My menu</string>
+    <string name="orderDetails">Order Details</string>
+    <string name="deliveryInfo">Delivery Information :</string>
+    <string name="account">Account</string>
+    <string name="history">My Orders</string>
+    <string name="register_shop_owner">Register Shop Owner</string>
+    <string name="pending_shop_owner">Pending Shop Owner</string>
+    <string name="message_waiting_admin_approve">You have already requested as shop owner. Please waiting for approving!</string>
+    <string name="manage_shops">Manage Shops</string>
+    <string name="myAccount">My Account</string>
+    <string name="feedBack">Feedbacks</string>
+    <string name="detail">Detail</string>
+    <string name="setting">Setting</string>
+    <string name="timeable">Timeable</string>
+    <string name="menu">Menu</string>
+    <string name="all">All</string>
+    <string name="map">Map</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="bestDeals">Best deals</string>
+    <string name="menus">Menus</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="titleDialogOpenHour">24 Hr Clock</string>
+    <string name="lblNoteTime">Note : Green text is the hour in next day.</string>
+    <string name="login">Login</string>
+    <string name="login_facebook">Login by Facebook</string>
+    <string name="register">Register</string>
+    <string name="report">Report</string>
+    <string name="open_hours">Open Hrs</string>
+    <string name="location">Location</string>
+    <string name="logout">Log out</string>
+    <string name="updateInfor">Update</string>
+    <string name="update">Update</string>
+    <string name="updatePass">Password</string>
+    <string name="myInfo">My information</string>
+    <string name="userHint">User Name</string>
+    <string name="passHint">Pass word</string>
+    <string name="password">Password</string>
+    <string name="repassword">Confirm password</string>
+    <string name="mail">Email</string>
+    <string name="payment_method">Payment method</string>
+    <string name="fullName">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok">Ok</string>
+    <string name="Des">Description</string>
+    <string name="SearchFor">Search For</string>
+    <string name="shop">Shop</string>
+    <string name="title">Title</string>
+    <string name="price">Price :</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="add_review">Add review</string>
+    <string name="order">Order</string>
+    <string name="send">SEND</string>
+    <string name="back">Back</string>
+    <string name="sum">SUM</string>
+    <string name="btn_send">Send</string>
+    <string name="search_key">Search key</string>
+    <string name="add">Add:</string>
+    <string name="vat">VAT:</string>
+    <string name="ship">SHIP: </string>
+    <string name="item">items</string>
+    <string name="home_menu_title">menu(s) around 10 km.</string>
+    <string name="home_shop_title">shop(s) around.</string>
+    <string name="rating">Rating</string>
+    <string name="fullname">Full name</string>
+    <string name="your_review">Your review</string>
+    <string name="load_more">Load more</string>
+    <string name="distance">Distance:</string>
+    <string name="max_distance">10 Km</string>
+    <string name="minutes_ago">minutes ago</string>
+    <string name="hours_ago">hours ago</string>
+    <string name="hour_ago">hour ago</string>
+    <string name="just_now">Just now</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="two_days_ago">2 days ago</string>
+    <string name="three_days_ago">3 days ago</string>
+    <string name="forward_slash_item">/item</string>
+
+    <!-- account info -->
+    <string name="lblUserName">User name :</string>
+    <string name="lblPassword">Password :</string>
+    <string name="lblPasswordNew">New Pass :</string>
+    <string name="lblPasswordOld">Old Pass :</string>
+    <string name="lblfullname">Full name :</string>
+    <string name="lblPassAgain">Confirm Pass :</string>
+    <string name="lblEmail">Email:</string>
+    <string name="lblphone">Phone :</string>
+    <string name="lblAddress">Address :</string>
+    <!-- ERRORS MESSAGE -->
+    <string name="error_UserName_empty">Please, input username !</string>
+    <string name="error_title_empty">Please, input title !</string>
+    <string name="error_des_empty">Please, input description !</string>
+    <string name="error_Password_empty">Please, input password !</string>
+    <string name="error_PasswordNew_empty">Please, input password new!</string>
+    <string name="error_Password_Wrong">Password is wrong !</string>
+    <string name="error_RePassword_empty">Please, confirm password !</string>
+    <string name="error_RePassword_wrong">Re-password is wrong !</string>
+    <string name="error_Email_empty">Please, input your email !</string>
+    <string name="error_Email_wrong">Please, input right email format !</string>
+    <string name="error_FullName">Please, input your full name !</string>
+    <string name="error_Phone">Please, input your phone number !</string>
+    <string name="error_Address">Please, input your address !</string>
+    <string name="error_adding_new_comment">Having error when adding your comment. Try again please!</string>
+    <string name="message_adding_new_comment_successfully">You added the comment successfully!</string>
+    <string name="message_success">Successfully !</string>
+    <string name="message_order_false">order is false. Please, try again !</string>
+    <string name="message_no_item_menu">No Item in my menu !</string>
+    <string name="message_no_login">Please, login to system !</string>
+    <string name="message_input_user_pass">Please, input user name and password !</string>
+    <string name="message_login_false">Login false. Please try again!</string>
+    <string name="remind_entering_user_name">If you have not logged in, please enter your name.</string>
+    <string name="please_enter_your_name">Please sign in or enter your name.</string>
+    <string name="please_leave_your_messages">Please leave your messages.</string>
+    <string name="wait_for_getting_location">The app is getting your location. Please wait a moment.</string>
+    <string name="message_permission_register_shop_owner">You must be normal user to use thi function.</string>
+    <string name="message_send_request_successfully">You already sent request successfully. Please waiting for processing!</string>
+    <string name="message_error_undefined">Opp! Error is undefined. Try again please!</string>
+    <string name="message_no_order_histories">Your order list is empty.\n Please try to order somethings!</string>
+    <string name="message_add_menu_to_cart_successfully">This item is added to my cart!</string>
+    <string name="message_item_is_existed_in_cart">This item is existed in my cart!</string>
+    <string name="message_quit_app">Do you want to quit this app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="have_no_date">Have no data!</string>
+    <string name="have_no_more_date">Have no more data!</string>
+    <string name="type">Type</string>
+    <string name="contact">Contact</string>
+    <string name="reviews">Reviews</string>
+    <string name="contact_information">Contact information</string>
+
+    <string name="address_two">Address:</string>
+    <string name="facebook">Facebook:</string>
+    <string name="twitter">Twitter:</string>
+    <string name="email">Email:</string>
+    <string name="livechat">Live chat:</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="card_number">Card Number</string>
+
+    <string-array name="arr_sort_by">
+        <item>Sort by Rating</item>
+        <item>Sort by name</item>
+        <item>Sort by date</item>
+    </string-array>
+    <string-array name="arr_sort_type">
+        <item>High to low</item>
+        <item>Low to high</item>
+    </string-array>
+    <string-array name="arr_feedback_type">
+        <item>Feedback</item>
+        <item>Bug</item>
+    </string-array>
+
+    <string-array name="payment_method">
+        <item>Cash on delivery</item>
+        <item>Paypal</item>
+        <item>Credit Card</item>
+    </string-array>
+
+</resources>

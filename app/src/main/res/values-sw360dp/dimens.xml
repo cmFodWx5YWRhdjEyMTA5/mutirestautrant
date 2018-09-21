@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="banner_height">200dp</dimen>
+    <dimen name="image_detail_height">240dp</dimen>
+    <dimen name="image_width_map_detail">300dp</dimen>
+    <dimen name="width_image_map">112dp</dimen>
+    <dimen name="height_image_map">96dp</dimen>
+    <dimen name="row_image_category_height">150dp</dimen>
+    <dimen name="app_list_offer_height">80dp</dimen>
+    <dimen name="row_shop_height">100dp</dimen>
+    <dimen name="dialog_open_time_height">420dp</dimen>
+    <dimen name="min_height_rating_bar">20dip</dimen>
+    <dimen name="max_height_rating_bar">24dip</dimen>
+
+    <!-- Dimensions -->
+    <dimen name="dimen_025x">2dp</dimen>
+    <dimen name="dimen_05x">4dp</dimen>
+    <dimen name="dimen_1x">8dp</dimen>
+    <dimen name="dimen_x1x">12dp</dimen>
+    <dimen name="dimen_2x">16dp</dimen>
+    <dimen name="dimen_x2x">20dp</dimen>
+    <dimen name="dimen_3x">24dp</dimen>
+    <dimen name="dimen_x3x">28dp</dimen>
+    <dimen name="dimen_4x">32dp</dimen>
+    <dimen name="dimen_x4x">36dp</dimen>
+    <dimen name="dimen_5x">40dp</dimen>
+    <dimen name="dimen_6x">48dp</dimen>
+    <dimen name="dimen_7x">56dp</dimen>
+    <dimen name="dimen_8x">64dp</dimen>
+    <dimen name="dimen_9x">72dp</dimen>
+    <dimen name="dimen_10x">80dp</dimen>
+    <dimen name="dimen_11x">88dp</dimen>
+    <dimen name="dimen_12x">96dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_tiny">2sp</dimen>
+    <dimen name="text_size_tiny_1x">3sp</dimen>
+    <dimen name="text_size_tiny_2x">4sp</dimen>
+    <dimen name="text_size_tiny_3x">6sp</dimen>
+    <dimen name="text_size_small">8sp</dimen>
+    <dimen name="text_size_small_1x">10sp</dimen>
+    <dimen name="text_size_small_2x">12sp</dimen>
+    <dimen name="text_size_small_3x">14sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_normal_1x">18sp</dimen>
+    <dimen name="text_size_normal_2x">20sp</dimen>
+    <dimen name="text_size_normal_3x">22sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_large_1x">26sp</dimen>
+    <dimen name="text_size_large_2x">28sp</dimen>
+    <dimen name="text_size_large_3x">30sp</dimen>
+    <dimen name="text_size_xlarge">32sp</dimen>
+    <dimen name="text_size_xlarge_1x">34sp</dimen>
+    <dimen name="text_size_xlarge_2x">36sp</dimen>
+    <dimen name="text_size_xlarge_3x">38sp</dimen>
+    <dimen name="text_size_huge">40sp</dimen>
+    <dimen name="text_size_huge_1x">42sp</dimen>
+    <dimen name="text_size_huge_2x">44sp</dimen>
+    <dimen name="text_size_huge_3x">46sp</dimen>
+    <dimen name="text_size_xhuge">48sp</dimen>
+    <dimen name="text_size_xhuge_1x">50sp</dimen>
+    <dimen name="text_size_xhuge_2x">52sp</dimen>
+    <dimen name="text_size_xhuge_3x">54sp</dimen>
+
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cl_GreenText">#128e00</color>
+    <color name="cl_BlueNumber">#2c8ab3</color>
+    <color name="cl_normalText">#515151</color>
+    <color name="cl_white">#ffffff</color>
+    <!-- <color name="green">#009900</color> -->
+    <!-- <color name="orange">#ffb533</color> -->
+    <color name="cl_orange">#f0de13</color>
+    <color name="cl_bottom">#e8ebec</color>
+    <color name="purple">#204365</color>
+    <color name="blue_facebook">#3b579d</color>
+    <color name="blue_search">#0a85c2</color>
+    <color name="blue_type_stop_result">#0db4ef</color>
+    <color name="gray_search">#999999</color>
+    <color name="gray_light">#e1e1e1</color>
+    <color name="green">#3d9ad6</color>
+    <color name="red">#ed2a2c</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#ed8305</color>
+    <color name="text_shadow_2">#7F000000</color>
+    <color name="text_shadow_1">#3F000000</color>
+    <color name="brown">#946146</color>
+    <color name="gray">#e9e9e9</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_gray">#FFD700</color>
+    <color name="black">#000000</color>
+    <color name="processorder">#ae09c7</color>
+    <color name="neworder">#0d4aca</color>
+    <color name="cancelorder">#cf2c16</color>
+    <color name="readyorder">#23a400</color>
+    <color name="closeorder">#ffffff</color>
+    <color name="cl_tabmain">#303b52</color>
+    <color name="red_button">#eb102f</color>
+    <color name="blackl">#cccccc</color>
+
+    <!-- Material palette -->
+    <color name="primary">#F44336</color>
+    <color name="primary_dark">#ed2a2c</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <!-- Color of HUY -->
+    <color name="whitehuy">#fff</color>
+    <color name="puperhuy">#303b4f</color>
+    <color name="greenhuy">#3dec0e</color>
+
+</resources>

@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_background_02"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layoutHeader"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_7x"
+        android:background="@color/primary_dark"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="@dimen/dimen_5x"
+            android:layout_height="@dimen/dimen_5x"
+            android:layout_marginLeft="@dimen/dimen_1x"
+            android:layout_marginRight="@dimen/dimen_1x"
+            android:background="@drawable/ic_backs"
+            android:contentDescription="@string/app_name" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lblShopName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_size_normal_1x"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lblMenuName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_size_small_2x" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btnAddToMenu"
+            android:layout_width="@dimen/dimen_5x"
+            android:layout_height="@dimen/dimen_5x"
+            android:layout_marginLeft="@dimen/dimen_1x"
+            android:layout_marginRight="@dimen/dimen_1x"
+            android:background="@drawable/ic_add_cart" />
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/lsv_comment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/dimen_1x"
+        android:layout_marginRight="@dimen/dimen_1x"
+        android:layout_marginTop="@dimen/dimen_1x"
+        android:divider="@null"
+        android:scrollbars="none" />
+
+    <LinearLayout
+        android:id="@+id/rlt_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_7x"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/dimen_1x"
+        android:paddingLeft="@dimen/dimen_1x"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/lblReviewNumber"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dimen_1x"
+            android:textColor="@color/cl_white"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:id="@+id/btnAddReview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button"
+            android:paddingTop="@dimen/dimen_1x"
+            android:paddingBottom="@dimen/dimen_1x"
+            android:paddingLeft="@dimen/dimen_2x"
+            android:paddingRight="@dimen/dimen_2x"
+            android:text="@string/add_review"
+            android:textColor="@color/cl_white"
+            android:textSize="@dimen/text_size_normal" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dialog_open_time_height"
+    android:background="@color/cl_white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_1x"
+            android:layout_marginTop="@dimen/dimen_1x"
+            android:text="@string/titleDialogOpenHour"
+            android:textColor="@color/blue_search"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_1x">
+
+        <TableRow
+            android:id="@+id/tableRowHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text=""
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/open"
+                android:textColor="@color/blue_search"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/closed"
+                android:textColor="@color/red"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/open"
+                android:textColor="@color/blue_search"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/closed"
+                android:textColor="@color/red"
+                android:textSize="@dimen/text_size_normal" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowMOn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Mon"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblMonOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblMonCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblMonOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblMonClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowTue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Tue"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblTueOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblTueCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblTueOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblTueClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowWed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Wed"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblWedOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblWedCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblWedOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblWedClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowThu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Thu"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblThuOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblThuCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblThuOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblThuClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowFri"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Fri"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblFriOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblFriCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblFriOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblFriClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowSat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Sat"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSatOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSatCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSatOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSatClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_column="0"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_weight="1"
+                android:background="@color/black" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRowSun"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="Sun"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSunOpenAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="07:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSunCloseAM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="11:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSunOpenPM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+
+            <TextView
+                android:id="@+id/lblSunClosePM"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="22:30"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/txtNote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dimen_1x"
+                android:layout_marginLeft="@dimen/dimen_1x"
+                android:layout_marginTop="@dimen/dimen_1x"
+                android:layout_span="5"
+                android:layout_weight="1"
+                android:text="@string/lblNoteTime"
+                android:textColor="@color/blue_search"
+                android:textSize="@dimen/text_size_small_3x" />
+        </TableRow>
+    </TableLayout>
+
+
+</LinearLayout>

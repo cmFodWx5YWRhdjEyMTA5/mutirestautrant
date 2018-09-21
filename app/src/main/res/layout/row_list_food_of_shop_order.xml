@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutRowShopCart"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_1x"
+        android:background="@drawable/bg_custom_spinner"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="@dimen/row_shop_height"
+            android:layout_height="@dimen/row_shop_height"
+            android:layout_margin="@dimen/dimen_1x">
+
+            <ProgressBar
+                android:id="@+id/progess"
+                style="@android:style/Widget.ProgressBar.Small.Inverse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+
+            <ImageView
+                android:id="@+id/imgFood"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/lblFoodName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:layout_marginTop="@dimen/dimen_05x"
+                android:singleLine="true"
+                android:text="Shop 1"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_normal_2x" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_05x"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/lblPriceTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cost :"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_small_3x" />
+
+                <TextView
+                    android:id="@+id/lblPrice"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_weight="1"
+                    android:gravity="right|center_vertical"
+                    android:paddingRight="@dimen/dimen_1x"
+                    android:text="50$"
+                    android:textColor="@color/red"
+                    android:textSize="@dimen/text_size_normal_1x" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_05x"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/lblTitleAdding"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Quantity :"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_small_3x" />
+
+                <TextView
+                    android:id="@+id/lblFoodNumber"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_weight="1"
+                    android:gravity="right|center_vertical"
+                    android:paddingRight="@dimen/dimen_1x"
+                    android:text="2"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_normal_1x" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_05x"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Topping :"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_small_3x" />
+
+                <TextView
+                    android:id="@+id/tvTopping"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_weight="1"
+                    android:gravity="right|center_vertical"
+                    android:paddingRight="@dimen/dimen_1x"
+                    android:text=""
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_normal_1x" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginRight="@dimen/dimen_1x"
+                android:background="@color/black" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dimen_1x"
+                android:layout_marginTop="@dimen/dimen_05x"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Total :"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_small_3x" />
+
+                <TextView
+                    android:id="@+id/lblTotal"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_weight="1"
+                    android:gravity="right|center_vertical"
+                    android:paddingRight="@dimen/dimen_1x"
+                    android:text="200$"
+                    android:textColor="@color/blue_search"
+                    android:textSize="@dimen/text_size_normal_1x" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

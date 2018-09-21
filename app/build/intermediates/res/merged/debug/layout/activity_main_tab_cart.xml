@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity" >
+
+    <fragment
+        android:id="@+id/fragmentShopCart"
+        android:name="com.hcpt.multirestaurants.activity.tabs.cart.ShopCartFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <fragment
+        android:id="@+id/fragmentDeliveryInfo"
+        android:name="com.hcpt.multirestaurants.activity.tabs.cart.DeliveryInfoFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</RelativeLayout>

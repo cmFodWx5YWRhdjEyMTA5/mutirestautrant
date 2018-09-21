@@ -1,0 +1,145 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_backgroundnew"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/layoutHeader"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_7x"
+        android:background="@color/primary_dark"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:contentDescription="@string/app_name"
+            android:layout_width="@dimen/dimen_5x"
+            android:layout_height="@dimen/dimen_5x"
+            android:layout_marginLeft="@dimen/dimen_1x"
+            android:layout_marginRight="@dimen/dimen_1x"
+            android:background="@drawable/ic_backs" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lblShopName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_review"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_size_normal_1x"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lblMenuName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/menus"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_size_small_2x" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/dimen_1x"
+        android:layout_weight="1"
+        android:background="@drawable/bg_white_edittext"
+        android:orientation="vertical"
+        android:padding="@dimen/dimen_1x">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rating"
+            android:textSize="@dimen/text_size_normal_1x" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/dimen_1x">
+
+            <RatingBar
+                android:id="@+id/rtbRating"
+                style="@style/CustomRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:max="5"
+                android:numStars="5"
+                android:progress="5"
+                android:stepSize="1" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_05x"
+            android:layout_marginTop="@dimen/dimen_1x"
+            android:text="@string/fullname"
+            android:textSize="@dimen/text_size_normal_1x" />
+
+        <EditText
+            android:id="@+id/txtFullname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/textview_bg"
+            android:inputType="text"
+            android:padding="@dimen/dimen_1x">
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/lblNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_05x"
+            android:text="@string/remind_entering_user_name"
+            android:textColor="@color/secondary_text"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_05x"
+            android:layout_marginTop="@dimen/dimen_1x"
+            android:text="@string/your_review"
+            android:textSize="@dimen/text_size_normal_1x" />
+
+        <EditText
+            android:id="@+id/txtReview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/textview_bg"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:lines="5"
+            android:padding="@dimen/dimen_1x" />
+
+
+        <TextView
+            android:id="@+id/btnAdd"
+            android:layout_marginTop="@dimen/dimen_1x"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button"
+            android:paddingBottom="@dimen/dimen_1x"
+            android:layout_gravity="right"
+            android:paddingLeft="@dimen/dimen_2x"
+            android:paddingRight="@dimen/dimen_2x"
+            android:paddingTop="@dimen/dimen_1x"
+            android:text="@string/add_review"
+            android:textColor="@color/cl_white"
+            android:textSize="@dimen/text_size_normal_1x" />
+    </LinearLayout>
+
+</LinearLayout>

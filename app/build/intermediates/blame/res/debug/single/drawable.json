@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_boder_item.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_boder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_custom_spinner.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_bar_style.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\rating_bar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_unselected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_search_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_myaccnew.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_myaccnew.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_facebook.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dropdown.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_dropdown.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_yellow_star.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_yellow_star.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_background_02.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\img_background_02.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_key12.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_key12.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fedbacknew.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_fedbacknew.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user_white.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_user_white.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_verified.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_verified.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_historynew.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_historynew.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user_select.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_user_select.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logoutnew.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_logoutnew.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_select_left.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_select_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_white.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_home_white.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_search_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cart.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_blue.9.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_color_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_not_select_left.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_not_select_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_overlay_bg_selector.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\balloon_overlay_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_register_shop_owner.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_register_shop_owner.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_radius.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_white_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_layout_radius.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\custom_layout_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\18473df02c02d8b451706f9798bcf7494532a665\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_overlay_unfocused.9.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\balloon_overlay_unfocused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apptheme_scrubber_progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\apptheme_scrubber_progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickaction_slider_btn.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\quickaction_slider_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backs.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_backs.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_red_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_red_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_cart.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_add_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_key.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_flip.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_select_right.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_select_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_unselected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_home_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_progressbar.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\circle_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_featured.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_featured.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_edittext.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\line_edittext.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_text_view.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_kengang.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_kengang.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_border.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\toast_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_my_menu_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_my_menu_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tic.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_tic.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_blue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_not_select_right.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_not_select_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_my_menu_unselected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_my_menu_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backgroundnew.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_backgroundnew.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_arrow.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user_non_select.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_user_non_select.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_continue.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_continue.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_quanliti_update.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_quanliti_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_loadmore_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_loadmore_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_account_info.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_account_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_view.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_boder_item2.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_boder_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_view2.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image_available.jpg",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\no_image_available.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_overlay_focused.9.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\balloon_overlay_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image_available_horizontal.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\no_image_available_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_bg.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\textview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_quanlity_update.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_quanlity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_buber.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_buber.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cart_white.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_cart_white.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_edittext.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_white_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_gray_star.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_gray_star.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_checked.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_rotate.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_transparent.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_black_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apptheme_scrubber_control_selector_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\drawable\\apptheme_scrubber_control_selector_holo_light.xml"
+    }
+]
